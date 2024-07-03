@@ -1,6 +1,6 @@
 # classic-music
 
-The Classic Music resource pack is a nostalgia sound pack for Minecraft: Java Edition. It brings back the selection of C418 tracks that existed in the Update Aquatic version (1.13) of Minecraft. It does so by modifying the existing Minecraft sound events to only include music by C418. If you would like to know more about how it works, please read the additional info below.
+The Classic Music resource pack is a nostalgia music pack for Minecraft: Java Edition. It brings back the selection of C418 tracks that existed in the Update Aquatic version (1.13) of Minecraft. It does so by modifying the existing Minecraft sound events to only include music by C418. If you would like to know more about how it works, please read the additional info below.
 
 ## How does it work?
 
@@ -16,4 +16,4 @@ Unfortunately, no. In order to prevent other tracks from playing, I had to speci
 
 ## Related links
 
-* [Post on PlanetMinecraft for Classic Music]()
+* [Post on PlanetMinecraft for Classic Music](https://www.planetminecraft.com/texture-pack/classic-music-resource-pack/)
